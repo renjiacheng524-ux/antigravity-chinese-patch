@@ -1,0 +1,7 @@
+node_modules/
+_build/
+_new.asar
+_new.asar.unpacked/
+__pycache__/
+*.pyc
+*.bak-*

@@ -1,0 +1,12 @@
+{
+  "name": "antigravity-chinese-patch",
+  "version": "1.0.0",
+  "description": "Unofficial Chinese localization patch for the Google Antigravity desktop client",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "@electron/asar": "^4.3.1"
+  }
+}
